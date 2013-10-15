@@ -1,0 +1,10 @@
+expense:
+    resource: "@ExpenseBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+user:
+    resource: "@UserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
